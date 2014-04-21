@@ -102,6 +102,7 @@ def read_choice():
 
 # Defining the events when a player says 'hit'
 def hit():
+
     global pool
     global chips
 
@@ -217,6 +218,7 @@ def check_bust(member):
 
 # Start a new game
 def start_new_game():
+    
     global pool
     global bet
 

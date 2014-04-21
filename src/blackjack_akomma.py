@@ -36,7 +36,7 @@
 #-------------------------------------------------------------------------------
 
 import sys
-from random import choice
+from random import choice as ch
 
 # Defining a deck. Pool of Cards
 # Allocating values to the cards
@@ -89,7 +89,7 @@ def initiate():
 
 # Pick one item from the 'cards' deck
 def draw(member):
-    pick = random.choice(cards.keys())
+    pick = ch(cards.keys())
     member.append(pick)
 
 # Ask the player to Hit or Stand

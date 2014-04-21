@@ -201,6 +201,8 @@ def sum_hand(member):
 
     for each in member:
         total+=cards[each]
+
+    # Implementing the logic for an Ace to act as '1' in case of bust
     if(total>21 and num_aces>=1):
         while(total>21 and num_aces>=1):
             total-=10

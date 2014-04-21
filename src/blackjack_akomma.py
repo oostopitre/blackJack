@@ -220,10 +220,10 @@ def start_new_game():
 
     #print
     print('==============================================================')
-    msg = random.choice(welcome_msg)
+    msg = ch(welcome_msg)
     print msg
     new_game = raw_input(('Press \'q\' to QUIT (or)\
-    Any other key to continue')).lower()
+    Any other key to continue:')).lower()
 
     if(new_game=='q'):
         print('==============================================================')

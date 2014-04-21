@@ -10,3 +10,9 @@ Version:     `Python 2.7.3`
 - Dealer logic: Stands if current total >=17
 - Dealer wins in a tie
 - Player buys-in with 100 Chips and bets atleast 1 chip every game
+
+## Future Improvements:
+- Report Game Statistics (Loses, Wins, #Prob of Win/Loss)
+- Parametrize Number of Decks and players 
+- Add GUI
+- Additional game play features (splitting, double down)

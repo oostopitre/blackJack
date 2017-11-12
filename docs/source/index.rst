@@ -8,6 +8,7 @@ Here is some text in the simple header.::
 
     print 'hello'
     >> hello
+    >> print('docs created with push...')
 
 Guide
 ^^^^^

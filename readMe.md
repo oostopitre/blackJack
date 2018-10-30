@@ -1,6 +1,3 @@
-Author: Abi Komma
-- personal project
-
 ### Purpose:
 Script to simulate the game `Blackjack` on a text-console
 Author:      `Abi Komma`

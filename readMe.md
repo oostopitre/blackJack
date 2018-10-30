@@ -1,8 +1,10 @@
-### Purpose:    
-Script to simulate the game `Blackjack` on a text-console  
-Author:      `Abi Komma`  
-Created:     `15/04/2014`  
-Version:     `Python 2.7.3`  
+Author: Abi Komma
+
+### Purpose:
+Script to simulate the game `Blackjack` on a text-console
+Author:      `Abi Komma`
+Created:     `15/04/2014`
+Version:     `Python 2.7.3`
 
 ### Assumptions:
 - One dealer (computer), One player (user input)
@@ -13,6 +15,7 @@ Version:     `Python 2.7.3`
 
 ### Future Improvements:
 - Report Game Statistics (Loses, Wins, #Prob of Win/Loss)
-- Parametrize Number of Decks and players 
+- Parametrize Number of Decks and players
 - Add GUI
 - Additional game play features (splitting, double down)
+
